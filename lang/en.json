@@ -1,0 +1,51 @@
+{
+    "programmer": "Front-End Developer",
+    "gamedev": "App Developer - Android",
+    "student": "STUDENT",
+    "thoughts": "$Thoughts",
+    "about": "About",
+        "programming": "$Programming",
+        "webmedia": "$Tools",
+        "languages": "$Languages",
+            "hindi": "'Hindi'",
+            "english": "'English'",
+            "french":"'French'",
+        "interests": "$Interests",
+            "games": "'Videogames'",
+            "art": "'Digital art'",
+            "design": "'Design'",
+    "now": "Now",
+    "antidumb": "Scroll/Swipe down to start",
+    "projects": "Projects",
+        "vm_1": "'This project is made just for fun. It writes a program step by step when any key is pressed :)'",
+        
+        "dm_1": "'Play, Queue, Skip, Stop. Discord bot that provides music listening functionality to you and your friends in the voice channel. '",
+        
+        "pu_1": "'Home Assistant will track the state of all the devices in your home, so you don't have to.'",
+        "pu_2": "'Control all your devices from a single, mobile-friendly, interface.'",
+        "pu_3": "'Home Assistant allows you to control all your devices without storing any of your data in the cloud. We like to keep your privacy private.'",
+    "experience": "Experience",
+        "hw_1": "'The aim is to help the unsigned artists to distribute their songs on every music streaming platform and we also offer many other services.'",
+        "hw_2": "'Development and installation of website for clients'",
+        "hw_3": "'CPanel hosting, use of SFTP and Cloudflare'",
+        
+    "achievements": "Certifications",
+        "a1": "$CAMBRIDGE_CERTIFICATION_AUTHORITY (Java) ",
+            "a11": "'I have sucessfully passed Cambridge Certification Authority test for a Java Developer.'",
+            
+        "a2": "$iOS_APP_DEVELOPMENT (Swift)",
+            "a21": "'I have completed the iOS App Development bootcamp on 26th May 2020, with Swift 5'",
+
+        "a3": "$ANDROID_APP_DEVELOPMENT (Kotlin)",
+            "a31": "'I have completed the Android App Development bootcamp on 7th August 2020, with Kotlin'",
+           
+    "studies": "Education",
+        "s1":"$High_School",
+            "s11": "'I graduated my High School in 2019 with 88% percent score'",
+            
+    "contact": "Contact",
+        "c_1": "$name",
+        "c_2": "$email",
+        "c_3": "$message",
+        "c_4": "submit"
+}
